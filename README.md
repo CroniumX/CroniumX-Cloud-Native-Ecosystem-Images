@@ -1,1 +1,1 @@
-# CroniumX Ecosystem Images
+# CroniumX Cloud-Native Ecosystem Images
